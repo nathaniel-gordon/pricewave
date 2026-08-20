@@ -1,0 +1,12 @@
+{
+  "name": "pricewave",
+  "category": "ML",
+  "architecture": "strategy/policy objects behind a backtest harness",
+  "interface": "task-runner (tasks.py) \u2014 python tasks.py demo",
+  "testing": "backtest acceptance",
+  "demo_cmd": "python tasks.py demo",
+  "test_cmd": "python -m pytest tests -q",
+  "entry_points": [
+    "tasks.py"
+  ]
+}
