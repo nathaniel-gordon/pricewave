@@ -1,0 +1,1249 @@
+week,product,category,price,unit_cost,promo,units_sold
+0,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,856
+1,Premium Coffee Beans 1kg,grocery,22.44,11.0,1,986
+2,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,699
+3,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,754
+4,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,800
+5,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,648
+6,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,733
+7,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1115
+8,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1135
+9,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,626
+10,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,931
+11,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1684
+12,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,773
+13,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,1165
+14,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,704
+15,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,988
+16,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,867
+17,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,817
+18,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,753
+19,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,1036
+20,Premium Coffee Beans 1kg,grocery,22.44,11.0,1,1481
+21,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,647
+22,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,767
+23,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1322
+24,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,608
+25,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,827
+26,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,581
+27,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,912
+28,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,451
+29,Premium Coffee Beans 1kg,grocery,22.44,11.0,1,1207
+30,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,633
+31,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,670
+32,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,588
+33,Premium Coffee Beans 1kg,grocery,22.44,11.0,1,977
+34,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,537
+35,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,678
+36,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,613
+37,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,611
+38,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,382
+39,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,893
+40,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,759
+41,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,767
+42,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,487
+43,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,792
+44,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,601
+45,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,563
+46,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,679
+47,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,783
+48,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,636
+49,Premium Coffee Beans 1kg,grocery,17.34,11.0,1,2262
+50,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,813
+51,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,795
+52,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,453
+53,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,727
+54,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,809
+55,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,2090
+56,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,684
+57,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,653
+58,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,753
+59,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1933
+60,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,724
+61,Premium Coffee Beans 1kg,grocery,18.36,11.0,1,1888
+62,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,1414
+63,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,936
+64,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,579
+65,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,1515
+66,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,762
+67,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,779
+68,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,602
+69,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,886
+70,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,673
+71,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,663
+72,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1394
+73,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,764
+74,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,785
+75,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,879
+76,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1381
+77,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,964
+78,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,841
+79,Premium Coffee Beans 1kg,grocery,26.4,11.0,0,667
+80,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,687
+81,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1674
+82,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,665
+83,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,530
+84,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,620
+85,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,636
+86,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,687
+87,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,812
+88,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,771
+89,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,504
+90,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1225
+91,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1207
+92,Premium Coffee Beans 1kg,grocery,20.4,11.0,0,1133
+93,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,453
+94,Premium Coffee Beans 1kg,grocery,25.2,11.0,0,597
+95,Premium Coffee Beans 1kg,grocery,22.44,11.0,1,901
+96,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,619
+97,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,723
+98,Premium Coffee Beans 1kg,grocery,27.6,11.0,0,494
+99,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,526
+100,Premium Coffee Beans 1kg,grocery,22.8,11.0,0,627
+101,Premium Coffee Beans 1kg,grocery,21.6,11.0,0,1344
+102,Premium Coffee Beans 1kg,grocery,20.4,11.0,1,1441
+103,Premium Coffee Beans 1kg,grocery,24.0,11.0,0,616
+0,House Blend Coffee 1kg,grocery,14.0,7.5,0,267
+1,House Blend Coffee 1kg,grocery,12.6,7.5,0,305
+2,House Blend Coffee 1kg,grocery,12.5,7.5,1,585
+3,House Blend Coffee 1kg,grocery,10.12,7.5,1,1075
+4,House Blend Coffee 1kg,grocery,15.4,7.5,0,254
+5,House Blend Coffee 1kg,grocery,14.0,7.5,0,314
+6,House Blend Coffee 1kg,grocery,14.0,7.5,0,314
+7,House Blend Coffee 1kg,grocery,11.9,7.5,0,636
+8,House Blend Coffee 1kg,grocery,13.3,7.5,0,314
+9,House Blend Coffee 1kg,grocery,11.9,7.5,0,529
+10,House Blend Coffee 1kg,grocery,14.7,7.5,0,342
+11,House Blend Coffee 1kg,grocery,11.9,7.5,0,431
+12,House Blend Coffee 1kg,grocery,14.0,7.5,0,341
+13,House Blend Coffee 1kg,grocery,15.4,7.5,0,260
+14,House Blend Coffee 1kg,grocery,13.3,7.5,0,490
+15,House Blend Coffee 1kg,grocery,14.0,7.5,0,325
+16,House Blend Coffee 1kg,grocery,12.6,7.5,0,415
+17,House Blend Coffee 1kg,grocery,13.3,7.5,0,400
+18,House Blend Coffee 1kg,grocery,13.3,7.5,0,431
+19,House Blend Coffee 1kg,grocery,13.3,7.5,0,367
+20,House Blend Coffee 1kg,grocery,12.6,7.5,0,517
+21,House Blend Coffee 1kg,grocery,13.3,7.5,0,473
+22,House Blend Coffee 1kg,grocery,14.0,7.5,0,407
+23,House Blend Coffee 1kg,grocery,14.0,7.5,0,345
+24,House Blend Coffee 1kg,grocery,15.4,7.5,0,206
+25,House Blend Coffee 1kg,grocery,14.7,7.5,0,211
+26,House Blend Coffee 1kg,grocery,14.0,7.5,0,286
+27,House Blend Coffee 1kg,grocery,15.4,7.5,0,244
+28,House Blend Coffee 1kg,grocery,14.0,7.5,0,211
+29,House Blend Coffee 1kg,grocery,11.9,7.5,0,336
+30,House Blend Coffee 1kg,grocery,14.0,7.5,0,288
+31,House Blend Coffee 1kg,grocery,14.0,7.5,0,217
+32,House Blend Coffee 1kg,grocery,14.7,7.5,0,199
+33,House Blend Coffee 1kg,grocery,14.0,7.5,0,223
+34,House Blend Coffee 1kg,grocery,11.9,7.5,0,258
+35,House Blend Coffee 1kg,grocery,14.0,7.5,0,244
+36,House Blend Coffee 1kg,grocery,14.0,7.5,0,172
+37,House Blend Coffee 1kg,grocery,14.0,7.5,0,261
+38,House Blend Coffee 1kg,grocery,12.5,7.5,1,479
+39,House Blend Coffee 1kg,grocery,11.9,7.5,0,329
+40,House Blend Coffee 1kg,grocery,14.7,7.5,0,216
+41,House Blend Coffee 1kg,grocery,13.3,7.5,0,284
+42,House Blend Coffee 1kg,grocery,14.0,7.5,0,233
+43,House Blend Coffee 1kg,grocery,13.3,7.5,0,324
+44,House Blend Coffee 1kg,grocery,14.7,7.5,0,273
+45,House Blend Coffee 1kg,grocery,14.0,7.5,0,217
+46,House Blend Coffee 1kg,grocery,14.0,7.5,0,252
+47,House Blend Coffee 1kg,grocery,14.0,7.5,0,293
+48,House Blend Coffee 1kg,grocery,14.0,7.5,0,378
+49,House Blend Coffee 1kg,grocery,11.9,7.5,0,294
+50,House Blend Coffee 1kg,grocery,11.9,7.5,0,421
+51,House Blend Coffee 1kg,grocery,14.7,7.5,0,189
+52,House Blend Coffee 1kg,grocery,16.1,7.5,0,173
+53,House Blend Coffee 1kg,grocery,14.0,7.5,0,315
+54,House Blend Coffee 1kg,grocery,14.0,7.5,0,204
+55,House Blend Coffee 1kg,grocery,11.9,7.5,0,427
+56,House Blend Coffee 1kg,grocery,11.9,7.5,0,480
+57,House Blend Coffee 1kg,grocery,10.12,7.5,1,1075
+58,House Blend Coffee 1kg,grocery,10.71,7.5,1,884
+59,House Blend Coffee 1kg,grocery,12.6,7.5,0,486
+60,House Blend Coffee 1kg,grocery,13.3,7.5,0,360
+61,House Blend Coffee 1kg,grocery,12.5,7.5,1,723
+62,House Blend Coffee 1kg,grocery,16.1,7.5,0,184
+63,House Blend Coffee 1kg,grocery,15.4,7.5,0,236
+64,House Blend Coffee 1kg,grocery,16.1,7.5,0,243
+65,House Blend Coffee 1kg,grocery,16.1,7.5,0,291
+66,House Blend Coffee 1kg,grocery,11.9,7.5,1,911
+67,House Blend Coffee 1kg,grocery,12.6,7.5,0,388
+68,House Blend Coffee 1kg,grocery,15.4,7.5,0,227
+69,House Blend Coffee 1kg,grocery,14.7,7.5,0,333
+70,House Blend Coffee 1kg,grocery,14.7,7.5,0,308
+71,House Blend Coffee 1kg,grocery,14.0,7.5,0,350
+72,House Blend Coffee 1kg,grocery,14.0,7.5,0,370
+73,House Blend Coffee 1kg,grocery,12.5,7.5,1,549
+74,House Blend Coffee 1kg,grocery,14.0,7.5,0,330
+75,House Blend Coffee 1kg,grocery,14.0,7.5,0,318
+76,House Blend Coffee 1kg,grocery,12.6,7.5,0,368
+77,House Blend Coffee 1kg,grocery,16.1,7.5,0,239
+78,House Blend Coffee 1kg,grocery,14.0,7.5,0,301
+79,House Blend Coffee 1kg,grocery,16.1,7.5,0,204
+80,House Blend Coffee 1kg,grocery,12.6,7.5,0,361
+81,House Blend Coffee 1kg,grocery,11.9,7.5,0,482
+82,House Blend Coffee 1kg,grocery,15.4,7.5,0,202
+83,House Blend Coffee 1kg,grocery,14.0,7.5,0,224
+84,House Blend Coffee 1kg,grocery,16.1,7.5,0,146
+85,House Blend Coffee 1kg,grocery,11.9,7.5,1,512
+86,House Blend Coffee 1kg,grocery,12.6,7.5,0,275
+87,House Blend Coffee 1kg,grocery,12.6,7.5,0,297
+88,House Blend Coffee 1kg,grocery,14.0,7.5,0,264
+89,House Blend Coffee 1kg,grocery,14.7,7.5,0,248
+90,House Blend Coffee 1kg,grocery,14.0,7.5,0,359
+91,House Blend Coffee 1kg,grocery,14.7,7.5,0,262
+92,House Blend Coffee 1kg,grocery,12.6,7.5,0,309
+93,House Blend Coffee 1kg,grocery,16.1,7.5,0,146
+94,House Blend Coffee 1kg,grocery,14.0,7.5,0,266
+95,House Blend Coffee 1kg,grocery,15.4,7.5,0,200
+96,House Blend Coffee 1kg,grocery,14.0,7.5,0,232
+97,House Blend Coffee 1kg,grocery,13.3,7.5,0,211
+98,House Blend Coffee 1kg,grocery,11.9,7.5,1,429
+99,House Blend Coffee 1kg,grocery,15.4,7.5,0,230
+100,House Blend Coffee 1kg,grocery,14.7,7.5,0,142
+101,House Blend Coffee 1kg,grocery,11.9,7.5,0,597
+102,House Blend Coffee 1kg,grocery,14.0,7.5,0,292
+103,House Blend Coffee 1kg,grocery,13.3,7.5,0,302
+0,Organic Green Tea,grocery,8.48,4.0,1,1127
+1,Organic Green Tea,grocery,8.55,4.0,0,680
+2,Organic Green Tea,grocery,10.92,4.0,0,471
+3,Organic Green Tea,grocery,10.92,4.0,0,696
+4,Organic Green Tea,grocery,9.5,4.0,0,649
+5,Organic Green Tea,grocery,8.07,4.0,1,1293
+6,Organic Green Tea,grocery,9.5,4.0,0,682
+7,Organic Green Tea,grocery,9.5,4.0,0,683
+8,Organic Green Tea,grocery,8.48,4.0,1,1370
+9,Organic Green Tea,grocery,8.55,4.0,0,1047
+10,Organic Green Tea,grocery,8.07,4.0,0,727
+11,Organic Green Tea,grocery,8.07,4.0,0,997
+12,Organic Green Tea,grocery,9.5,4.0,0,747
+13,Organic Green Tea,grocery,8.48,4.0,1,1087
+14,Organic Green Tea,grocery,10.92,4.0,0,670
+15,Organic Green Tea,grocery,9.03,4.0,0,860
+16,Organic Green Tea,grocery,9.03,4.0,0,776
+17,Organic Green Tea,grocery,9.5,4.0,0,637
+18,Organic Green Tea,grocery,9.5,4.0,0,685
+19,Organic Green Tea,grocery,8.07,4.0,1,1294
+20,Organic Green Tea,grocery,9.97,4.0,0,597
+21,Organic Green Tea,grocery,9.97,4.0,0,746
+22,Organic Green Tea,grocery,8.07,4.0,1,1357
+23,Organic Green Tea,grocery,10.92,4.0,0,445
+24,Organic Green Tea,grocery,8.07,4.0,1,1034
+25,Organic Green Tea,grocery,9.03,4.0,0,558
+26,Organic Green Tea,grocery,10.92,4.0,0,506
+27,Organic Green Tea,grocery,9.5,4.0,0,426
+28,Organic Green Tea,grocery,9.5,4.0,0,517
+29,Organic Green Tea,grocery,8.88,4.0,1,1291
+30,Organic Green Tea,grocery,9.97,4.0,0,572
+31,Organic Green Tea,grocery,9.5,4.0,0,476
+32,Organic Green Tea,grocery,10.45,4.0,0,382
+33,Organic Green Tea,grocery,8.48,4.0,1,871
+34,Organic Green Tea,grocery,10.92,4.0,0,472
+35,Organic Green Tea,grocery,10.92,4.0,0,488
+36,Organic Green Tea,grocery,9.97,4.0,0,457
+37,Organic Green Tea,grocery,8.07,4.0,0,737
+38,Organic Green Tea,grocery,8.55,4.0,0,474
+39,Organic Green Tea,grocery,6.86,4.0,1,1016
+40,Organic Green Tea,grocery,10.45,4.0,0,504
+41,Organic Green Tea,grocery,9.97,4.0,0,409
+42,Organic Green Tea,grocery,9.5,4.0,0,491
+43,Organic Green Tea,grocery,8.07,4.0,0,639
+44,Organic Green Tea,grocery,9.29,4.0,1,733
+45,Organic Green Tea,grocery,8.07,4.0,1,917
+46,Organic Green Tea,grocery,9.5,4.0,0,481
+47,Organic Green Tea,grocery,9.97,4.0,0,699
+48,Organic Green Tea,grocery,10.92,4.0,0,355
+49,Organic Green Tea,grocery,9.03,4.0,0,617
+50,Organic Green Tea,grocery,10.45,4.0,0,589
+51,Organic Green Tea,grocery,8.55,4.0,0,572
+52,Organic Green Tea,grocery,9.5,4.0,0,659
+53,Organic Green Tea,grocery,10.92,4.0,0,526
+54,Organic Green Tea,grocery,8.55,4.0,0,633
+55,Organic Green Tea,grocery,10.92,4.0,0,577
+56,Organic Green Tea,grocery,8.55,4.0,0,786
+57,Organic Green Tea,grocery,9.5,4.0,0,595
+58,Organic Green Tea,grocery,9.5,4.0,0,628
+59,Organic Green Tea,grocery,8.07,4.0,0,1118
+60,Organic Green Tea,grocery,10.92,4.0,0,609
+61,Organic Green Tea,grocery,10.92,4.0,0,585
+62,Organic Green Tea,grocery,9.5,4.0,0,586
+63,Organic Green Tea,grocery,8.55,4.0,0,814
+64,Organic Green Tea,grocery,8.55,4.0,0,928
+65,Organic Green Tea,grocery,9.5,4.0,0,622
+66,Organic Green Tea,grocery,8.55,4.0,0,1301
+67,Organic Green Tea,grocery,8.55,4.0,0,942
+68,Organic Green Tea,grocery,9.97,4.0,0,783
+69,Organic Green Tea,grocery,9.5,4.0,0,692
+70,Organic Green Tea,grocery,9.97,4.0,0,647
+71,Organic Green Tea,grocery,10.92,4.0,0,684
+72,Organic Green Tea,grocery,8.07,4.0,1,1204
+73,Organic Green Tea,grocery,9.97,4.0,0,638
+74,Organic Green Tea,grocery,9.29,4.0,1,894
+75,Organic Green Tea,grocery,9.29,4.0,1,690
+76,Organic Green Tea,grocery,9.29,4.0,1,949
+77,Organic Green Tea,grocery,9.5,4.0,0,630
+78,Organic Green Tea,grocery,8.48,4.0,1,1262
+79,Organic Green Tea,grocery,9.5,4.0,0,542
+80,Organic Green Tea,grocery,9.5,4.0,0,681
+81,Organic Green Tea,grocery,8.07,4.0,1,1200
+82,Organic Green Tea,grocery,8.55,4.0,0,661
+83,Organic Green Tea,grocery,8.07,4.0,0,566
+84,Organic Green Tea,grocery,9.5,4.0,0,483
+85,Organic Green Tea,grocery,10.45,4.0,0,587
+86,Organic Green Tea,grocery,10.92,4.0,0,392
+87,Organic Green Tea,grocery,9.5,4.0,0,572
+88,Organic Green Tea,grocery,9.5,4.0,0,453
+89,Organic Green Tea,grocery,8.07,4.0,0,682
+90,Organic Green Tea,grocery,7.67,4.0,1,1073
+91,Organic Green Tea,grocery,7.27,4.0,1,1252
+92,Organic Green Tea,grocery,7.27,4.0,1,772
+93,Organic Green Tea,grocery,8.07,4.0,0,817
+94,Organic Green Tea,grocery,9.97,4.0,0,514
+95,Organic Green Tea,grocery,10.45,4.0,0,638
+96,Organic Green Tea,grocery,10.92,4.0,0,394
+97,Organic Green Tea,grocery,10.45,4.0,0,467
+98,Organic Green Tea,grocery,10.92,4.0,0,622
+99,Organic Green Tea,grocery,9.5,4.0,0,499
+100,Organic Green Tea,grocery,9.5,4.0,0,633
+101,Organic Green Tea,grocery,10.45,4.0,0,582
+102,Organic Green Tea,grocery,10.45,4.0,0,567
+103,Organic Green Tea,grocery,8.07,4.0,0,798
+0,Steel Water Bottle,accessories,20.9,6.5,0,319
+1,Steel Water Bottle,accessories,19.95,6.5,0,286
+2,Steel Water Bottle,accessories,17.1,6.5,0,406
+3,Steel Water Bottle,accessories,17.1,6.5,0,428
+4,Steel Water Bottle,accessories,16.15,6.5,0,461
+5,Steel Water Bottle,accessories,18.57,6.5,1,659
+6,Steel Water Bottle,accessories,19.0,6.5,0,350
+7,Steel Water Bottle,accessories,17.1,6.5,0,417
+8,Steel Water Bottle,accessories,17.1,6.5,0,388
+9,Steel Water Bottle,accessories,18.05,6.5,0,426
+10,Steel Water Bottle,accessories,21.85,6.5,0,255
+11,Steel Water Bottle,accessories,20.9,6.5,0,342
+12,Steel Water Bottle,accessories,20.9,6.5,0,253
+13,Steel Water Bottle,accessories,18.05,6.5,0,423
+14,Steel Water Bottle,accessories,19.0,6.5,0,426
+15,Steel Water Bottle,accessories,19.95,6.5,0,262
+16,Steel Water Bottle,accessories,21.85,6.5,0,252
+17,Steel Water Bottle,accessories,19.0,6.5,0,365
+18,Steel Water Bottle,accessories,21.85,6.5,0,268
+19,Steel Water Bottle,accessories,16.15,6.5,0,508
+20,Steel Water Bottle,accessories,18.05,6.5,0,349
+21,Steel Water Bottle,accessories,21.85,6.5,0,202
+22,Steel Water Bottle,accessories,21.85,6.5,0,240
+23,Steel Water Bottle,accessories,19.95,6.5,0,281
+24,Steel Water Bottle,accessories,19.95,6.5,0,298
+25,Steel Water Bottle,accessories,19.95,6.5,0,229
+26,Steel Water Bottle,accessories,19.95,6.5,0,232
+27,Steel Water Bottle,accessories,17.77,6.5,1,604
+28,Steel Water Bottle,accessories,19.0,6.5,0,388
+29,Steel Water Bottle,accessories,16.15,6.5,0,531
+30,Steel Water Bottle,accessories,19.95,6.5,0,262
+31,Steel Water Bottle,accessories,19.0,6.5,0,309
+32,Steel Water Bottle,accessories,16.15,6.5,0,358
+33,Steel Water Bottle,accessories,19.0,6.5,0,302
+34,Steel Water Bottle,accessories,18.05,6.5,0,289
+35,Steel Water Bottle,accessories,19.0,6.5,0,273
+36,Steel Water Bottle,accessories,16.15,6.5,0,308
+37,Steel Water Bottle,accessories,18.57,6.5,1,371
+38,Steel Water Bottle,accessories,18.05,6.5,0,319
+39,Steel Water Bottle,accessories,18.05,6.5,0,262
+40,Steel Water Bottle,accessories,19.0,6.5,0,261
+41,Steel Water Bottle,accessories,18.05,6.5,0,315
+42,Steel Water Bottle,accessories,19.95,6.5,0,165
+43,Steel Water Bottle,accessories,19.0,6.5,0,246
+44,Steel Water Bottle,accessories,18.05,6.5,0,299
+45,Steel Water Bottle,accessories,21.85,6.5,0,160
+46,Steel Water Bottle,accessories,19.0,6.5,0,278
+47,Steel Water Bottle,accessories,16.15,6.5,0,360
+48,Steel Water Bottle,accessories,17.77,6.5,1,395
+49,Steel Water Bottle,accessories,20.9,6.5,0,213
+50,Steel Water Bottle,accessories,19.0,6.5,0,338
+51,Steel Water Bottle,accessories,17.1,6.5,0,321
+52,Steel Water Bottle,accessories,20.9,6.5,0,258
+53,Steel Water Bottle,accessories,18.05,6.5,0,334
+54,Steel Water Bottle,accessories,19.0,6.5,0,434
+55,Steel Water Bottle,accessories,21.85,6.5,0,191
+56,Steel Water Bottle,accessories,17.1,6.5,0,363
+57,Steel Water Bottle,accessories,20.9,6.5,0,293
+58,Steel Water Bottle,accessories,21.85,6.5,0,298
+59,Steel Water Bottle,accessories,19.95,6.5,0,263
+60,Steel Water Bottle,accessories,19.95,6.5,0,230
+61,Steel Water Bottle,accessories,17.1,6.5,0,385
+62,Steel Water Bottle,accessories,16.15,6.5,0,492
+63,Steel Water Bottle,accessories,20.9,6.5,0,281
+64,Steel Water Bottle,accessories,20.9,6.5,0,293
+65,Steel Water Bottle,accessories,19.0,6.5,0,384
+66,Steel Water Bottle,accessories,20.9,6.5,0,304
+67,Steel Water Bottle,accessories,21.85,6.5,0,217
+68,Steel Water Bottle,accessories,20.9,6.5,0,329
+69,Steel Water Bottle,accessories,16.15,6.5,0,578
+70,Steel Water Bottle,accessories,16.15,6.5,0,519
+71,Steel Water Bottle,accessories,19.0,6.5,0,361
+72,Steel Water Bottle,accessories,17.1,6.5,0,237
+73,Steel Water Bottle,accessories,20.9,6.5,0,288
+74,Steel Water Bottle,accessories,19.95,6.5,0,260
+75,Steel Water Bottle,accessories,18.05,6.5,0,330
+76,Steel Water Bottle,accessories,16.15,6.5,0,476
+77,Steel Water Bottle,accessories,20.9,6.5,0,253
+78,Steel Water Bottle,accessories,18.05,6.5,0,332
+79,Steel Water Bottle,accessories,19.95,6.5,0,252
+80,Steel Water Bottle,accessories,16.15,6.5,1,584
+81,Steel Water Bottle,accessories,19.0,6.5,0,275
+82,Steel Water Bottle,accessories,17.1,6.5,0,295
+83,Steel Water Bottle,accessories,21.85,6.5,0,236
+84,Steel Water Bottle,accessories,19.95,6.5,0,256
+85,Steel Water Bottle,accessories,19.0,6.5,0,204
+86,Steel Water Bottle,accessories,16.15,6.5,0,391
+87,Steel Water Bottle,accessories,16.96,6.5,1,371
+88,Steel Water Bottle,accessories,19.95,6.5,0,250
+89,Steel Water Bottle,accessories,19.95,6.5,0,208
+90,Steel Water Bottle,accessories,18.05,6.5,0,373
+91,Steel Water Bottle,accessories,21.85,6.5,0,180
+92,Steel Water Bottle,accessories,17.1,6.5,0,321
+93,Steel Water Bottle,accessories,19.95,6.5,0,257
+94,Steel Water Bottle,accessories,19.0,6.5,0,236
+95,Steel Water Bottle,accessories,18.05,6.5,0,285
+96,Steel Water Bottle,accessories,15.34,6.5,1,552
+97,Steel Water Bottle,accessories,19.95,6.5,0,249
+98,Steel Water Bottle,accessories,20.9,6.5,0,198
+99,Steel Water Bottle,accessories,17.1,6.5,0,288
+100,Steel Water Bottle,accessories,17.1,6.5,0,332
+101,Steel Water Bottle,accessories,17.1,6.5,0,390
+102,Steel Water Bottle,accessories,21.85,6.5,0,224
+103,Steel Water Bottle,accessories,21.85,6.5,0,153
+0,Canvas Tote Bag,accessories,12.6,3.8,0,754
+1,Canvas Tote Bag,accessories,11.4,3.8,0,1235
+2,Canvas Tote Bag,accessories,12.0,3.8,0,977
+3,Canvas Tote Bag,accessories,12.6,3.8,0,805
+4,Canvas Tote Bag,accessories,11.4,3.8,0,1236
+5,Canvas Tote Bag,accessories,12.0,3.8,0,823
+6,Canvas Tote Bag,accessories,12.6,3.8,0,865
+7,Canvas Tote Bag,accessories,12.0,3.8,0,863
+8,Canvas Tote Bag,accessories,13.8,3.8,0,582
+9,Canvas Tote Bag,accessories,13.8,3.8,0,563
+10,Canvas Tote Bag,accessories,10.8,3.8,0,2035
+11,Canvas Tote Bag,accessories,13.2,3.8,0,999
+12,Canvas Tote Bag,accessories,12.6,3.8,0,920
+13,Canvas Tote Bag,accessories,11.4,3.8,0,1167
+14,Canvas Tote Bag,accessories,12.6,3.8,0,1082
+15,Canvas Tote Bag,accessories,13.2,3.8,0,782
+16,Canvas Tote Bag,accessories,12.0,3.8,0,1291
+17,Canvas Tote Bag,accessories,13.2,3.8,0,753
+18,Canvas Tote Bag,accessories,8.67,3.8,1,2744
+19,Canvas Tote Bag,accessories,12.0,3.8,0,1027
+20,Canvas Tote Bag,accessories,12.0,3.8,0,888
+21,Canvas Tote Bag,accessories,12.0,3.8,0,997
+22,Canvas Tote Bag,accessories,12.0,3.8,0,951
+23,Canvas Tote Bag,accessories,13.2,3.8,0,662
+24,Canvas Tote Bag,accessories,10.71,3.8,1,1958
+25,Canvas Tote Bag,accessories,13.2,3.8,0,616
+26,Canvas Tote Bag,accessories,11.4,3.8,0,1029
+27,Canvas Tote Bag,accessories,12.6,3.8,0,899
+28,Canvas Tote Bag,accessories,10.71,3.8,1,1891
+29,Canvas Tote Bag,accessories,12.6,3.8,0,849
+30,Canvas Tote Bag,accessories,10.8,3.8,0,1162
+31,Canvas Tote Bag,accessories,10.2,3.8,0,1378
+32,Canvas Tote Bag,accessories,13.8,3.8,0,640
+33,Canvas Tote Bag,accessories,13.2,3.8,0,735
+34,Canvas Tote Bag,accessories,10.8,3.8,0,965
+35,Canvas Tote Bag,accessories,12.0,3.8,0,747
+36,Canvas Tote Bag,accessories,9.69,3.8,1,1999
+37,Canvas Tote Bag,accessories,9.18,3.8,1,2348
+38,Canvas Tote Bag,accessories,8.67,3.8,1,2459
+39,Canvas Tote Bag,accessories,10.2,3.8,1,1549
+40,Canvas Tote Bag,accessories,11.4,3.8,0,804
+41,Canvas Tote Bag,accessories,10.8,3.8,0,846
+42,Canvas Tote Bag,accessories,12.0,3.8,0,913
+43,Canvas Tote Bag,accessories,13.2,3.8,0,694
+44,Canvas Tote Bag,accessories,11.4,3.8,0,850
+45,Canvas Tote Bag,accessories,13.2,3.8,0,763
+46,Canvas Tote Bag,accessories,12.0,3.8,0,704
+47,Canvas Tote Bag,accessories,10.8,3.8,0,1172
+48,Canvas Tote Bag,accessories,9.69,3.8,1,2421
+49,Canvas Tote Bag,accessories,10.8,3.8,0,1123
+50,Canvas Tote Bag,accessories,13.2,3.8,0,580
+51,Canvas Tote Bag,accessories,10.8,3.8,0,1158
+52,Canvas Tote Bag,accessories,13.8,3.8,0,395
+53,Canvas Tote Bag,accessories,13.8,3.8,0,494
+54,Canvas Tote Bag,accessories,13.8,3.8,0,480
+55,Canvas Tote Bag,accessories,11.4,3.8,0,928
+56,Canvas Tote Bag,accessories,11.4,3.8,0,1017
+57,Canvas Tote Bag,accessories,10.71,3.8,1,1557
+58,Canvas Tote Bag,accessories,12.0,3.8,0,831
+59,Canvas Tote Bag,accessories,11.4,3.8,0,885
+60,Canvas Tote Bag,accessories,10.8,3.8,0,1430
+61,Canvas Tote Bag,accessories,12.0,3.8,0,822
+62,Canvas Tote Bag,accessories,12.6,3.8,0,989
+63,Canvas Tote Bag,accessories,10.71,3.8,1,1614
+64,Canvas Tote Bag,accessories,13.2,3.8,0,874
+65,Canvas Tote Bag,accessories,12.6,3.8,0,1155
+66,Canvas Tote Bag,accessories,13.2,3.8,0,894
+67,Canvas Tote Bag,accessories,13.8,3.8,0,954
+68,Canvas Tote Bag,accessories,11.4,3.8,0,1500
+69,Canvas Tote Bag,accessories,10.71,3.8,1,1603
+70,Canvas Tote Bag,accessories,12.0,3.8,0,988
+71,Canvas Tote Bag,accessories,10.8,3.8,0,1194
+72,Canvas Tote Bag,accessories,10.8,3.8,0,1888
+73,Canvas Tote Bag,accessories,10.2,3.8,0,1742
+74,Canvas Tote Bag,accessories,13.2,3.8,0,643
+75,Canvas Tote Bag,accessories,11.73,3.8,1,1119
+76,Canvas Tote Bag,accessories,10.2,3.8,1,1670
+77,Canvas Tote Bag,accessories,12.0,3.8,0,878
+78,Canvas Tote Bag,accessories,12.6,3.8,0,856
+79,Canvas Tote Bag,accessories,10.2,3.8,1,2061
+80,Canvas Tote Bag,accessories,12.0,3.8,0,907
+81,Canvas Tote Bag,accessories,13.8,3.8,0,503
+82,Canvas Tote Bag,accessories,11.4,3.8,0,932
+83,Canvas Tote Bag,accessories,12.0,3.8,0,688
+84,Canvas Tote Bag,accessories,12.6,3.8,0,740
+85,Canvas Tote Bag,accessories,9.69,3.8,1,2397
+86,Canvas Tote Bag,accessories,12.0,3.8,0,686
+87,Canvas Tote Bag,accessories,11.4,3.8,0,861
+88,Canvas Tote Bag,accessories,13.2,3.8,0,545
+89,Canvas Tote Bag,accessories,13.8,3.8,0,574
+90,Canvas Tote Bag,accessories,12.0,3.8,0,760
+91,Canvas Tote Bag,accessories,12.0,3.8,0,654
+92,Canvas Tote Bag,accessories,10.2,3.8,0,1508
+93,Canvas Tote Bag,accessories,12.0,3.8,0,853
+94,Canvas Tote Bag,accessories,13.2,3.8,0,521
+95,Canvas Tote Bag,accessories,10.8,3.8,0,973
+96,Canvas Tote Bag,accessories,13.8,3.8,0,560
+97,Canvas Tote Bag,accessories,13.8,3.8,0,654
+98,Canvas Tote Bag,accessories,13.2,3.8,0,624
+99,Canvas Tote Bag,accessories,12.0,3.8,0,784
+100,Canvas Tote Bag,accessories,11.73,3.8,1,1276
+101,Canvas Tote Bag,accessories,10.71,3.8,1,1919
+102,Canvas Tote Bag,accessories,10.8,3.8,0,1265
+103,Canvas Tote Bag,accessories,10.2,3.8,1,1973
+0,Ceramic Mug Set,accessories,32.2,12.0,0,381
+1,Ceramic Mug Set,accessories,26.6,12.0,0,432
+2,Ceramic Mug Set,accessories,25.2,12.0,0,538
+3,Ceramic Mug Set,accessories,28.0,12.0,0,346
+4,Ceramic Mug Set,accessories,30.8,12.0,0,334
+5,Ceramic Mug Set,accessories,25.2,12.0,0,392
+6,Ceramic Mug Set,accessories,28.0,12.0,0,452
+7,Ceramic Mug Set,accessories,28.0,12.0,0,407
+8,Ceramic Mug Set,accessories,32.2,12.0,0,366
+9,Ceramic Mug Set,accessories,22.61,12.0,1,1114
+10,Ceramic Mug Set,accessories,23.8,12.0,0,702
+11,Ceramic Mug Set,accessories,26.6,12.0,0,523
+12,Ceramic Mug Set,accessories,28.0,12.0,0,604
+13,Ceramic Mug Set,accessories,28.0,12.0,0,457
+14,Ceramic Mug Set,accessories,30.8,12.0,0,445
+15,Ceramic Mug Set,accessories,28.0,12.0,0,521
+16,Ceramic Mug Set,accessories,28.0,12.0,0,557
+17,Ceramic Mug Set,accessories,25.2,12.0,0,488
+18,Ceramic Mug Set,accessories,25.2,12.0,0,613
+19,Ceramic Mug Set,accessories,28.0,12.0,0,515
+20,Ceramic Mug Set,accessories,32.2,12.0,0,364
+21,Ceramic Mug Set,accessories,30.8,12.0,0,425
+22,Ceramic Mug Set,accessories,21.42,12.0,1,839
+23,Ceramic Mug Set,accessories,28.0,12.0,0,469
+24,Ceramic Mug Set,accessories,28.0,12.0,0,428
+25,Ceramic Mug Set,accessories,22.61,12.0,1,934
+26,Ceramic Mug Set,accessories,32.2,12.0,0,375
+27,Ceramic Mug Set,accessories,23.8,12.0,0,571
+28,Ceramic Mug Set,accessories,23.8,12.0,0,486
+29,Ceramic Mug Set,accessories,32.2,12.0,0,295
+30,Ceramic Mug Set,accessories,21.42,12.0,1,961
+31,Ceramic Mug Set,accessories,32.2,12.0,0,320
+32,Ceramic Mug Set,accessories,25.2,12.0,0,536
+33,Ceramic Mug Set,accessories,23.8,12.0,0,371
+34,Ceramic Mug Set,accessories,28.0,12.0,0,278
+35,Ceramic Mug Set,accessories,30.8,12.0,0,324
+36,Ceramic Mug Set,accessories,28.0,12.0,0,370
+37,Ceramic Mug Set,accessories,28.0,12.0,0,427
+38,Ceramic Mug Set,accessories,28.0,12.0,0,340
+39,Ceramic Mug Set,accessories,28.0,12.0,0,354
+40,Ceramic Mug Set,accessories,24.99,12.0,1,628
+41,Ceramic Mug Set,accessories,23.8,12.0,0,408
+42,Ceramic Mug Set,accessories,23.8,12.0,0,493
+43,Ceramic Mug Set,accessories,23.8,12.0,0,622
+44,Ceramic Mug Set,accessories,28.0,12.0,0,395
+45,Ceramic Mug Set,accessories,28.0,12.0,0,441
+46,Ceramic Mug Set,accessories,22.61,12.0,1,685
+47,Ceramic Mug Set,accessories,25.2,12.0,0,499
+48,Ceramic Mug Set,accessories,26.6,12.0,0,416
+49,Ceramic Mug Set,accessories,28.0,12.0,0,366
+50,Ceramic Mug Set,accessories,29.4,12.0,0,453
+51,Ceramic Mug Set,accessories,30.8,12.0,0,306
+52,Ceramic Mug Set,accessories,28.0,12.0,0,488
+53,Ceramic Mug Set,accessories,28.0,12.0,0,412
+54,Ceramic Mug Set,accessories,28.0,12.0,0,546
+55,Ceramic Mug Set,accessories,25.2,12.0,0,455
+56,Ceramic Mug Set,accessories,30.8,12.0,0,433
+57,Ceramic Mug Set,accessories,25.2,12.0,0,524
+58,Ceramic Mug Set,accessories,30.8,12.0,0,311
+59,Ceramic Mug Set,accessories,23.8,12.0,0,612
+60,Ceramic Mug Set,accessories,26.6,12.0,0,431
+61,Ceramic Mug Set,accessories,32.2,12.0,0,352
+62,Ceramic Mug Set,accessories,24.99,12.0,1,1060
+63,Ceramic Mug Set,accessories,28.0,12.0,0,521
+64,Ceramic Mug Set,accessories,23.8,12.0,0,617
+65,Ceramic Mug Set,accessories,28.0,12.0,0,475
+66,Ceramic Mug Set,accessories,29.4,12.0,0,434
+67,Ceramic Mug Set,accessories,29.4,12.0,0,452
+68,Ceramic Mug Set,accessories,30.8,12.0,0,565
+69,Ceramic Mug Set,accessories,29.4,12.0,0,529
+70,Ceramic Mug Set,accessories,29.4,12.0,0,482
+71,Ceramic Mug Set,accessories,26.6,12.0,0,522
+72,Ceramic Mug Set,accessories,28.0,12.0,0,374
+73,Ceramic Mug Set,accessories,28.0,12.0,0,471
+74,Ceramic Mug Set,accessories,26.6,12.0,0,343
+75,Ceramic Mug Set,accessories,29.4,12.0,0,401
+76,Ceramic Mug Set,accessories,20.23,12.0,1,978
+77,Ceramic Mug Set,accessories,32.2,12.0,0,367
+78,Ceramic Mug Set,accessories,25.2,12.0,0,521
+79,Ceramic Mug Set,accessories,32.2,12.0,0,287
+80,Ceramic Mug Set,accessories,30.8,12.0,0,362
+81,Ceramic Mug Set,accessories,28.0,12.0,0,355
+82,Ceramic Mug Set,accessories,29.4,12.0,0,299
+83,Ceramic Mug Set,accessories,23.8,12.0,1,582
+84,Ceramic Mug Set,accessories,28.0,12.0,0,415
+85,Ceramic Mug Set,accessories,29.4,12.0,0,308
+86,Ceramic Mug Set,accessories,26.6,12.0,0,412
+87,Ceramic Mug Set,accessories,26.6,12.0,0,419
+88,Ceramic Mug Set,accessories,32.2,12.0,0,388
+89,Ceramic Mug Set,accessories,30.8,12.0,0,304
+90,Ceramic Mug Set,accessories,29.4,12.0,0,234
+91,Ceramic Mug Set,accessories,26.6,12.0,0,392
+92,Ceramic Mug Set,accessories,26.6,12.0,0,360
+93,Ceramic Mug Set,accessories,28.0,12.0,0,286
+94,Ceramic Mug Set,accessories,28.0,12.0,0,342
+95,Ceramic Mug Set,accessories,32.2,12.0,0,338
+96,Ceramic Mug Set,accessories,24.99,12.0,1,436
+97,Ceramic Mug Set,accessories,23.8,12.0,0,517
+98,Ceramic Mug Set,accessories,30.8,12.0,0,264
+99,Ceramic Mug Set,accessories,23.8,12.0,1,595
+100,Ceramic Mug Set,accessories,23.8,12.0,0,429
+101,Ceramic Mug Set,accessories,30.8,12.0,0,323
+102,Ceramic Mug Set,accessories,25.2,12.0,0,466
+103,Ceramic Mug Set,accessories,28.0,12.0,0,393
+0,Bluetooth Speaker Mini,electronics,49.0,26.0,0,456
+1,Bluetooth Speaker Mini,electronics,46.55,26.0,0,440
+2,Bluetooth Speaker Mini,electronics,53.9,26.0,0,285
+3,Bluetooth Speaker Mini,electronics,49.0,26.0,0,406
+4,Bluetooth Speaker Mini,electronics,44.1,26.0,0,585
+5,Bluetooth Speaker Mini,electronics,53.9,26.0,0,385
+6,Bluetooth Speaker Mini,electronics,56.35,26.0,0,296
+7,Bluetooth Speaker Mini,electronics,53.9,26.0,0,323
+8,Bluetooth Speaker Mini,electronics,41.65,26.0,0,568
+9,Bluetooth Speaker Mini,electronics,49.0,26.0,0,484
+10,Bluetooth Speaker Mini,electronics,49.0,26.0,0,401
+11,Bluetooth Speaker Mini,electronics,49.0,26.0,0,512
+12,Bluetooth Speaker Mini,electronics,46.55,26.0,0,611
+13,Bluetooth Speaker Mini,electronics,56.35,26.0,0,357
+14,Bluetooth Speaker Mini,electronics,53.9,26.0,0,399
+15,Bluetooth Speaker Mini,electronics,41.65,26.0,0,517
+16,Bluetooth Speaker Mini,electronics,44.1,26.0,0,606
+17,Bluetooth Speaker Mini,electronics,44.1,26.0,0,515
+18,Bluetooth Speaker Mini,electronics,51.45,26.0,0,469
+19,Bluetooth Speaker Mini,electronics,51.45,26.0,0,458
+20,Bluetooth Speaker Mini,electronics,41.65,26.0,0,600
+21,Bluetooth Speaker Mini,electronics,44.1,26.0,0,732
+22,Bluetooth Speaker Mini,electronics,44.1,26.0,0,570
+23,Bluetooth Speaker Mini,electronics,44.1,26.0,0,637
+24,Bluetooth Speaker Mini,electronics,44.1,26.0,0,541
+25,Bluetooth Speaker Mini,electronics,56.35,26.0,0,300
+26,Bluetooth Speaker Mini,electronics,46.55,26.0,0,434
+27,Bluetooth Speaker Mini,electronics,44.1,26.0,0,859
+28,Bluetooth Speaker Mini,electronics,51.45,26.0,0,322
+29,Bluetooth Speaker Mini,electronics,49.0,26.0,0,404
+30,Bluetooth Speaker Mini,electronics,44.1,26.0,0,522
+31,Bluetooth Speaker Mini,electronics,44.1,26.0,0,342
+32,Bluetooth Speaker Mini,electronics,49.0,26.0,0,451
+33,Bluetooth Speaker Mini,electronics,41.65,26.0,0,483
+34,Bluetooth Speaker Mini,electronics,49.0,26.0,0,386
+35,Bluetooth Speaker Mini,electronics,44.1,26.0,0,354
+36,Bluetooth Speaker Mini,electronics,41.65,26.0,0,517
+37,Bluetooth Speaker Mini,electronics,56.35,26.0,0,278
+38,Bluetooth Speaker Mini,electronics,49.0,26.0,0,397
+39,Bluetooth Speaker Mini,electronics,46.55,26.0,0,407
+40,Bluetooth Speaker Mini,electronics,49.0,26.0,0,347
+41,Bluetooth Speaker Mini,electronics,49.0,26.0,0,331
+42,Bluetooth Speaker Mini,electronics,53.9,26.0,0,270
+43,Bluetooth Speaker Mini,electronics,51.45,26.0,0,252
+44,Bluetooth Speaker Mini,electronics,49.0,26.0,0,416
+45,Bluetooth Speaker Mini,electronics,56.35,26.0,0,391
+46,Bluetooth Speaker Mini,electronics,46.55,26.0,0,573
+47,Bluetooth Speaker Mini,electronics,51.45,26.0,0,307
+48,Bluetooth Speaker Mini,electronics,49.0,26.0,0,411
+49,Bluetooth Speaker Mini,electronics,56.35,26.0,0,283
+50,Bluetooth Speaker Mini,electronics,49.0,26.0,0,440
+51,Bluetooth Speaker Mini,electronics,56.35,26.0,0,231
+52,Bluetooth Speaker Mini,electronics,46.55,26.0,0,431
+53,Bluetooth Speaker Mini,electronics,43.73,26.0,1,641
+54,Bluetooth Speaker Mini,electronics,46.55,26.0,0,615
+55,Bluetooth Speaker Mini,electronics,41.65,26.0,1,1059
+56,Bluetooth Speaker Mini,electronics,53.9,26.0,0,362
+57,Bluetooth Speaker Mini,electronics,41.65,26.0,0,643
+58,Bluetooth Speaker Mini,electronics,49.0,26.0,0,386
+59,Bluetooth Speaker Mini,electronics,46.55,26.0,0,570
+60,Bluetooth Speaker Mini,electronics,49.0,26.0,0,460
+61,Bluetooth Speaker Mini,electronics,49.0,26.0,0,380
+62,Bluetooth Speaker Mini,electronics,39.57,26.0,1,1109
+63,Bluetooth Speaker Mini,electronics,56.35,26.0,0,251
+64,Bluetooth Speaker Mini,electronics,41.65,26.0,0,703
+65,Bluetooth Speaker Mini,electronics,49.0,26.0,0,603
+66,Bluetooth Speaker Mini,electronics,53.9,26.0,0,282
+67,Bluetooth Speaker Mini,electronics,53.9,26.0,0,398
+68,Bluetooth Speaker Mini,electronics,44.1,26.0,0,594
+69,Bluetooth Speaker Mini,electronics,56.35,26.0,0,395
+70,Bluetooth Speaker Mini,electronics,44.1,26.0,0,511
+71,Bluetooth Speaker Mini,electronics,35.4,26.0,1,2063
+72,Bluetooth Speaker Mini,electronics,35.4,26.0,1,1285
+73,Bluetooth Speaker Mini,electronics,44.1,26.0,0,617
+74,Bluetooth Speaker Mini,electronics,49.0,26.0,0,463
+75,Bluetooth Speaker Mini,electronics,56.35,26.0,0,259
+76,Bluetooth Speaker Mini,electronics,51.45,26.0,0,319
+77,Bluetooth Speaker Mini,electronics,46.55,26.0,0,434
+78,Bluetooth Speaker Mini,electronics,49.0,26.0,0,542
+79,Bluetooth Speaker Mini,electronics,44.1,26.0,0,437
+80,Bluetooth Speaker Mini,electronics,51.45,26.0,0,332
+81,Bluetooth Speaker Mini,electronics,53.9,26.0,0,295
+82,Bluetooth Speaker Mini,electronics,49.0,26.0,0,356
+83,Bluetooth Speaker Mini,electronics,51.45,26.0,0,314
+84,Bluetooth Speaker Mini,electronics,46.55,26.0,0,564
+85,Bluetooth Speaker Mini,electronics,49.0,26.0,0,317
+86,Bluetooth Speaker Mini,electronics,46.55,26.0,0,368
+87,Bluetooth Speaker Mini,electronics,51.45,26.0,0,274
+88,Bluetooth Speaker Mini,electronics,41.65,26.0,0,439
+89,Bluetooth Speaker Mini,electronics,49.0,26.0,0,310
+90,Bluetooth Speaker Mini,electronics,53.9,26.0,0,271
+91,Bluetooth Speaker Mini,electronics,44.1,26.0,0,465
+92,Bluetooth Speaker Mini,electronics,49.0,26.0,0,428
+93,Bluetooth Speaker Mini,electronics,49.0,26.0,0,289
+94,Bluetooth Speaker Mini,electronics,51.45,26.0,0,406
+95,Bluetooth Speaker Mini,electronics,41.65,26.0,1,776
+96,Bluetooth Speaker Mini,electronics,49.0,26.0,0,412
+97,Bluetooth Speaker Mini,electronics,56.35,26.0,0,319
+98,Bluetooth Speaker Mini,electronics,49.0,26.0,0,447
+99,Bluetooth Speaker Mini,electronics,37.48,26.0,1,1042
+100,Bluetooth Speaker Mini,electronics,46.55,26.0,0,331
+101,Bluetooth Speaker Mini,electronics,45.82,26.0,1,635
+102,Bluetooth Speaker Mini,electronics,41.65,26.0,0,564
+103,Bluetooth Speaker Mini,electronics,56.35,26.0,0,321
+0,USB-C Charging Hub,electronics,37.05,17.0,0,517
+1,USB-C Charging Hub,electronics,42.9,17.0,0,552
+2,USB-C Charging Hub,electronics,39.0,17.0,0,490
+3,USB-C Charging Hub,electronics,42.9,17.0,0,602
+4,USB-C Charging Hub,electronics,40.95,17.0,0,593
+5,USB-C Charging Hub,electronics,37.05,17.0,0,905
+6,USB-C Charging Hub,electronics,37.05,17.0,0,566
+7,USB-C Charging Hub,electronics,40.95,17.0,0,817
+8,USB-C Charging Hub,electronics,40.95,17.0,0,759
+9,USB-C Charging Hub,electronics,42.9,17.0,0,813
+10,USB-C Charging Hub,electronics,44.85,17.0,0,665
+11,USB-C Charging Hub,electronics,44.85,17.0,0,497
+12,USB-C Charging Hub,electronics,33.15,17.0,0,1042
+13,USB-C Charging Hub,electronics,39.0,17.0,0,737
+14,USB-C Charging Hub,electronics,42.9,17.0,0,588
+15,USB-C Charging Hub,electronics,37.05,17.0,0,965
+16,USB-C Charging Hub,electronics,44.85,17.0,0,426
+17,USB-C Charging Hub,electronics,39.0,17.0,0,629
+18,USB-C Charging Hub,electronics,38.12,17.0,1,993
+19,USB-C Charging Hub,electronics,37.05,17.0,0,767
+20,USB-C Charging Hub,electronics,28.18,17.0,1,1649
+21,USB-C Charging Hub,electronics,28.18,17.0,1,2140
+22,USB-C Charging Hub,electronics,39.0,17.0,0,775
+23,USB-C Charging Hub,electronics,39.0,17.0,0,857
+24,USB-C Charging Hub,electronics,40.95,17.0,0,629
+25,USB-C Charging Hub,electronics,44.85,17.0,0,568
+26,USB-C Charging Hub,electronics,40.95,17.0,0,675
+27,USB-C Charging Hub,electronics,35.1,17.0,0,688
+28,USB-C Charging Hub,electronics,44.85,17.0,0,356
+29,USB-C Charging Hub,electronics,44.85,17.0,0,625
+30,USB-C Charging Hub,electronics,40.95,17.0,0,607
+31,USB-C Charging Hub,electronics,35.1,17.0,0,651
+32,USB-C Charging Hub,electronics,31.49,17.0,1,1239
+33,USB-C Charging Hub,electronics,39.0,17.0,0,579
+34,USB-C Charging Hub,electronics,35.1,17.0,0,788
+35,USB-C Charging Hub,electronics,40.95,17.0,0,417
+36,USB-C Charging Hub,electronics,35.1,17.0,0,597
+37,USB-C Charging Hub,electronics,33.15,17.0,0,776
+38,USB-C Charging Hub,electronics,35.1,17.0,0,593
+39,USB-C Charging Hub,electronics,42.9,17.0,0,497
+40,USB-C Charging Hub,electronics,31.49,17.0,1,929
+41,USB-C Charging Hub,electronics,38.12,17.0,1,815
+42,USB-C Charging Hub,electronics,35.1,17.0,0,578
+43,USB-C Charging Hub,electronics,44.85,17.0,0,464
+44,USB-C Charging Hub,electronics,33.15,17.0,0,455
+45,USB-C Charging Hub,electronics,39.0,17.0,0,661
+46,USB-C Charging Hub,electronics,40.95,17.0,0,438
+47,USB-C Charging Hub,electronics,40.95,17.0,0,390
+48,USB-C Charging Hub,electronics,40.95,17.0,0,446
+49,USB-C Charging Hub,electronics,39.0,17.0,0,511
+50,USB-C Charging Hub,electronics,44.85,17.0,0,363
+51,USB-C Charging Hub,electronics,35.1,17.0,0,661
+52,USB-C Charging Hub,electronics,33.15,17.0,0,1111
+53,USB-C Charging Hub,electronics,35.1,17.0,0,658
+54,USB-C Charging Hub,electronics,39.0,17.0,0,546
+55,USB-C Charging Hub,electronics,39.0,17.0,0,562
+56,USB-C Charging Hub,electronics,39.0,17.0,0,523
+57,USB-C Charging Hub,electronics,35.1,17.0,0,743
+58,USB-C Charging Hub,electronics,33.15,17.0,1,1387
+59,USB-C Charging Hub,electronics,39.0,17.0,0,552
+60,USB-C Charging Hub,electronics,40.95,17.0,0,578
+61,USB-C Charging Hub,electronics,39.0,17.0,0,621
+62,USB-C Charging Hub,electronics,35.1,17.0,0,942
+63,USB-C Charging Hub,electronics,33.15,17.0,0,980
+64,USB-C Charging Hub,electronics,35.1,17.0,0,1002
+65,USB-C Charging Hub,electronics,40.95,17.0,0,693
+66,USB-C Charging Hub,electronics,40.95,17.0,0,676
+67,USB-C Charging Hub,electronics,39.0,17.0,0,777
+68,USB-C Charging Hub,electronics,37.05,17.0,0,942
+69,USB-C Charging Hub,electronics,31.49,17.0,1,1625
+70,USB-C Charging Hub,electronics,37.05,17.0,0,839
+71,USB-C Charging Hub,electronics,39.0,17.0,0,738
+72,USB-C Charging Hub,electronics,35.1,17.0,0,834
+73,USB-C Charging Hub,electronics,39.0,17.0,0,628
+74,USB-C Charging Hub,electronics,40.95,17.0,0,680
+75,USB-C Charging Hub,electronics,33.15,17.0,0,951
+76,USB-C Charging Hub,electronics,35.1,17.0,0,862
+77,USB-C Charging Hub,electronics,42.9,17.0,0,544
+78,USB-C Charging Hub,electronics,44.85,17.0,0,464
+79,USB-C Charging Hub,electronics,44.85,17.0,0,523
+80,USB-C Charging Hub,electronics,42.9,17.0,0,619
+81,USB-C Charging Hub,electronics,31.49,17.0,1,1051
+82,USB-C Charging Hub,electronics,39.0,17.0,0,482
+83,USB-C Charging Hub,electronics,37.05,17.0,0,706
+84,USB-C Charging Hub,electronics,35.1,17.0,0,888
+85,USB-C Charging Hub,electronics,33.15,17.0,0,748
+86,USB-C Charging Hub,electronics,33.15,17.0,1,1135
+87,USB-C Charging Hub,electronics,39.0,17.0,0,482
+88,USB-C Charging Hub,electronics,44.85,17.0,0,340
+89,USB-C Charging Hub,electronics,39.0,17.0,0,590
+90,USB-C Charging Hub,electronics,42.9,17.0,0,418
+91,USB-C Charging Hub,electronics,39.0,17.0,0,495
+92,USB-C Charging Hub,electronics,35.1,17.0,0,660
+93,USB-C Charging Hub,electronics,33.15,17.0,0,670
+94,USB-C Charging Hub,electronics,39.0,17.0,0,568
+95,USB-C Charging Hub,electronics,40.95,17.0,0,557
+96,USB-C Charging Hub,electronics,39.0,17.0,0,443
+97,USB-C Charging Hub,electronics,39.0,17.0,0,623
+98,USB-C Charging Hub,electronics,33.15,17.0,0,637
+99,USB-C Charging Hub,electronics,38.12,17.0,1,704
+100,USB-C Charging Hub,electronics,44.85,17.0,0,486
+101,USB-C Charging Hub,electronics,35.1,17.0,0,672
+102,USB-C Charging Hub,electronics,35.1,17.0,0,624
+103,USB-C Charging Hub,electronics,40.95,17.0,0,757
+0,Wireless Earbuds Lite,electronics,75.9,34.0,0,236
+1,Wireless Earbuds Lite,electronics,69.0,34.0,0,302
+2,Wireless Earbuds Lite,electronics,69.0,34.0,0,293
+3,Wireless Earbuds Lite,electronics,55.72,34.0,1,513
+4,Wireless Earbuds Lite,electronics,75.9,34.0,0,241
+5,Wireless Earbuds Lite,electronics,58.65,34.0,0,460
+6,Wireless Earbuds Lite,electronics,79.35,34.0,0,215
+7,Wireless Earbuds Lite,electronics,55.72,34.0,1,804
+8,Wireless Earbuds Lite,electronics,65.55,34.0,0,452
+9,Wireless Earbuds Lite,electronics,75.9,34.0,0,281
+10,Wireless Earbuds Lite,electronics,79.35,34.0,0,282
+11,Wireless Earbuds Lite,electronics,65.55,34.0,0,436
+12,Wireless Earbuds Lite,electronics,62.1,34.0,0,450
+13,Wireless Earbuds Lite,electronics,69.0,34.0,0,409
+14,Wireless Earbuds Lite,electronics,69.0,34.0,0,454
+15,Wireless Earbuds Lite,electronics,58.65,34.0,0,378
+16,Wireless Earbuds Lite,electronics,62.1,34.0,0,419
+17,Wireless Earbuds Lite,electronics,58.65,34.0,0,613
+18,Wireless Earbuds Lite,electronics,65.55,34.0,0,397
+19,Wireless Earbuds Lite,electronics,58.65,34.0,0,518
+20,Wireless Earbuds Lite,electronics,69.0,34.0,0,362
+21,Wireless Earbuds Lite,electronics,65.55,34.0,0,370
+22,Wireless Earbuds Lite,electronics,75.9,34.0,0,299
+23,Wireless Earbuds Lite,electronics,79.35,34.0,0,237
+24,Wireless Earbuds Lite,electronics,69.0,34.0,0,308
+25,Wireless Earbuds Lite,electronics,65.55,34.0,0,481
+26,Wireless Earbuds Lite,electronics,69.0,34.0,0,352
+27,Wireless Earbuds Lite,electronics,69.0,34.0,0,422
+28,Wireless Earbuds Lite,electronics,69.0,34.0,0,250
+29,Wireless Earbuds Lite,electronics,79.35,34.0,0,216
+30,Wireless Earbuds Lite,electronics,62.1,34.0,0,417
+31,Wireless Earbuds Lite,electronics,75.9,34.0,0,208
+32,Wireless Earbuds Lite,electronics,55.72,34.0,1,522
+33,Wireless Earbuds Lite,electronics,58.65,34.0,1,446
+34,Wireless Earbuds Lite,electronics,58.65,34.0,0,368
+35,Wireless Earbuds Lite,electronics,58.65,34.0,0,400
+36,Wireless Earbuds Lite,electronics,58.65,34.0,1,519
+37,Wireless Earbuds Lite,electronics,79.35,34.0,0,196
+38,Wireless Earbuds Lite,electronics,65.55,34.0,0,245
+39,Wireless Earbuds Lite,electronics,72.45,34.0,0,192
+40,Wireless Earbuds Lite,electronics,75.9,34.0,0,250
+41,Wireless Earbuds Lite,electronics,69.0,34.0,0,274
+42,Wireless Earbuds Lite,electronics,67.45,34.0,1,284
+43,Wireless Earbuds Lite,electronics,58.65,34.0,0,323
+44,Wireless Earbuds Lite,electronics,72.45,34.0,0,220
+45,Wireless Earbuds Lite,electronics,69.0,34.0,0,274
+46,Wireless Earbuds Lite,electronics,69.0,34.0,0,286
+47,Wireless Earbuds Lite,electronics,61.58,34.0,1,455
+48,Wireless Earbuds Lite,electronics,69.0,34.0,0,202
+49,Wireless Earbuds Lite,electronics,72.45,34.0,0,190
+50,Wireless Earbuds Lite,electronics,69.0,34.0,0,264
+51,Wireless Earbuds Lite,electronics,62.1,34.0,0,396
+52,Wireless Earbuds Lite,electronics,75.9,34.0,0,207
+53,Wireless Earbuds Lite,electronics,58.65,34.0,0,439
+54,Wireless Earbuds Lite,electronics,72.45,34.0,0,280
+55,Wireless Earbuds Lite,electronics,65.55,34.0,0,309
+56,Wireless Earbuds Lite,electronics,79.35,34.0,0,244
+57,Wireless Earbuds Lite,electronics,75.9,34.0,0,320
+58,Wireless Earbuds Lite,electronics,58.65,34.0,0,505
+59,Wireless Earbuds Lite,electronics,67.45,34.0,1,472
+60,Wireless Earbuds Lite,electronics,69.0,34.0,0,423
+61,Wireless Earbuds Lite,electronics,67.45,34.0,1,451
+62,Wireless Earbuds Lite,electronics,72.45,34.0,0,312
+63,Wireless Earbuds Lite,electronics,75.9,34.0,0,228
+64,Wireless Earbuds Lite,electronics,79.35,34.0,0,268
+65,Wireless Earbuds Lite,electronics,69.0,34.0,0,298
+66,Wireless Earbuds Lite,electronics,49.85,34.0,1,1095
+67,Wireless Earbuds Lite,electronics,69.0,34.0,0,370
+68,Wireless Earbuds Lite,electronics,58.65,34.0,0,402
+69,Wireless Earbuds Lite,electronics,62.1,34.0,0,375
+70,Wireless Earbuds Lite,electronics,58.65,34.0,1,678
+71,Wireless Earbuds Lite,electronics,79.35,34.0,0,241
+72,Wireless Earbuds Lite,electronics,62.1,34.0,0,334
+73,Wireless Earbuds Lite,electronics,72.45,34.0,0,321
+74,Wireless Earbuds Lite,electronics,49.85,34.0,1,805
+75,Wireless Earbuds Lite,electronics,61.58,34.0,1,688
+76,Wireless Earbuds Lite,electronics,65.55,34.0,0,385
+77,Wireless Earbuds Lite,electronics,75.9,34.0,0,293
+78,Wireless Earbuds Lite,electronics,75.9,34.0,0,253
+79,Wireless Earbuds Lite,electronics,69.0,34.0,0,317
+80,Wireless Earbuds Lite,electronics,75.9,34.0,0,238
+81,Wireless Earbuds Lite,electronics,58.65,34.0,0,423
+82,Wireless Earbuds Lite,electronics,65.55,34.0,0,294
+83,Wireless Earbuds Lite,electronics,62.1,34.0,0,311
+84,Wireless Earbuds Lite,electronics,67.45,34.0,1,434
+85,Wireless Earbuds Lite,electronics,49.85,34.0,1,744
+86,Wireless Earbuds Lite,electronics,65.55,34.0,0,386
+87,Wireless Earbuds Lite,electronics,62.1,34.0,0,230
+88,Wireless Earbuds Lite,electronics,62.1,34.0,0,374
+89,Wireless Earbuds Lite,electronics,69.0,34.0,0,268
+90,Wireless Earbuds Lite,electronics,62.1,34.0,0,446
+91,Wireless Earbuds Lite,electronics,75.9,34.0,0,157
+92,Wireless Earbuds Lite,electronics,72.45,34.0,0,272
+93,Wireless Earbuds Lite,electronics,58.65,34.0,0,423
+94,Wireless Earbuds Lite,electronics,67.45,34.0,1,331
+95,Wireless Earbuds Lite,electronics,64.52,34.0,1,394
+96,Wireless Earbuds Lite,electronics,58.65,34.0,1,328
+97,Wireless Earbuds Lite,electronics,75.9,34.0,0,225
+98,Wireless Earbuds Lite,electronics,79.35,34.0,0,197
+99,Wireless Earbuds Lite,electronics,69.0,34.0,0,279
+100,Wireless Earbuds Lite,electronics,79.35,34.0,0,253
+101,Wireless Earbuds Lite,electronics,58.65,34.0,0,424
+102,Wireless Earbuds Lite,electronics,75.9,34.0,0,248
+103,Wireless Earbuds Lite,electronics,65.55,34.0,0,310
+0,Desk Plant Kit,home,16.8,6.0,0,484
+1,Desk Plant Kit,home,15.2,6.0,0,605
+2,Desk Plant Kit,home,14.4,6.0,0,624
+3,Desk Plant Kit,home,16.0,6.0,0,473
+4,Desk Plant Kit,home,16.0,6.0,0,554
+5,Desk Plant Kit,home,12.24,6.0,1,1126
+6,Desk Plant Kit,home,15.2,6.0,0,726
+7,Desk Plant Kit,home,11.56,6.0,1,1558
+8,Desk Plant Kit,home,17.6,6.0,0,514
+9,Desk Plant Kit,home,15.2,6.0,0,547
+10,Desk Plant Kit,home,16.0,6.0,0,771
+11,Desk Plant Kit,home,14.4,6.0,0,769
+12,Desk Plant Kit,home,16.8,6.0,0,596
+13,Desk Plant Kit,home,17.6,6.0,0,385
+14,Desk Plant Kit,home,16.8,6.0,0,701
+15,Desk Plant Kit,home,15.2,6.0,0,834
+16,Desk Plant Kit,home,16.0,6.0,0,655
+17,Desk Plant Kit,home,16.0,6.0,0,762
+18,Desk Plant Kit,home,18.4,6.0,0,436
+19,Desk Plant Kit,home,16.0,6.0,0,492
+20,Desk Plant Kit,home,17.6,6.0,0,664
+21,Desk Plant Kit,home,17.6,6.0,0,342
+22,Desk Plant Kit,home,11.56,6.0,1,1176
+23,Desk Plant Kit,home,16.8,6.0,0,493
+24,Desk Plant Kit,home,18.4,6.0,0,416
+25,Desk Plant Kit,home,16.0,6.0,0,475
+26,Desk Plant Kit,home,14.4,6.0,0,696
+27,Desk Plant Kit,home,16.8,6.0,0,345
+28,Desk Plant Kit,home,13.6,6.0,0,627
+29,Desk Plant Kit,home,14.4,6.0,0,453
+30,Desk Plant Kit,home,13.6,6.0,1,733
+31,Desk Plant Kit,home,16.0,6.0,0,431
+32,Desk Plant Kit,home,14.4,6.0,0,461
+33,Desk Plant Kit,home,16.8,6.0,0,463
+34,Desk Plant Kit,home,17.6,6.0,0,413
+35,Desk Plant Kit,home,13.6,6.0,0,363
+36,Desk Plant Kit,home,15.2,6.0,0,593
+37,Desk Plant Kit,home,13.6,6.0,0,415
+38,Desk Plant Kit,home,16.0,6.0,0,380
+39,Desk Plant Kit,home,16.0,6.0,0,472
+40,Desk Plant Kit,home,13.6,6.0,0,498
+41,Desk Plant Kit,home,16.8,6.0,0,378
+42,Desk Plant Kit,home,16.0,6.0,0,607
+43,Desk Plant Kit,home,14.4,6.0,0,494
+44,Desk Plant Kit,home,18.4,6.0,0,440
+45,Desk Plant Kit,home,13.6,6.0,0,553
+46,Desk Plant Kit,home,17.6,6.0,0,346
+47,Desk Plant Kit,home,17.6,6.0,0,484
+48,Desk Plant Kit,home,18.4,6.0,0,436
+49,Desk Plant Kit,home,18.4,6.0,0,457
+50,Desk Plant Kit,home,16.8,6.0,0,436
+51,Desk Plant Kit,home,16.0,6.0,0,567
+52,Desk Plant Kit,home,16.8,6.0,0,453
+53,Desk Plant Kit,home,15.2,6.0,0,488
+54,Desk Plant Kit,home,17.6,6.0,0,560
+55,Desk Plant Kit,home,16.8,6.0,0,383
+56,Desk Plant Kit,home,14.28,6.0,1,735
+57,Desk Plant Kit,home,14.4,6.0,0,532
+58,Desk Plant Kit,home,18.4,6.0,0,455
+59,Desk Plant Kit,home,14.4,6.0,0,740
+60,Desk Plant Kit,home,15.2,6.0,0,590
+61,Desk Plant Kit,home,18.4,6.0,0,558
+62,Desk Plant Kit,home,15.2,6.0,0,466
+63,Desk Plant Kit,home,16.8,6.0,0,650
+64,Desk Plant Kit,home,11.56,6.0,1,1116
+65,Desk Plant Kit,home,18.4,6.0,0,516
+66,Desk Plant Kit,home,14.96,6.0,1,959
+67,Desk Plant Kit,home,16.0,6.0,0,761
+68,Desk Plant Kit,home,14.4,6.0,0,688
+69,Desk Plant Kit,home,16.0,6.0,0,537
+70,Desk Plant Kit,home,18.4,6.0,0,598
+71,Desk Plant Kit,home,15.2,6.0,0,611
+72,Desk Plant Kit,home,15.2,6.0,0,748
+73,Desk Plant Kit,home,12.92,6.0,1,1084
+74,Desk Plant Kit,home,17.6,6.0,0,604
+75,Desk Plant Kit,home,13.6,6.0,0,847
+76,Desk Plant Kit,home,16.8,6.0,0,480
+77,Desk Plant Kit,home,13.6,6.0,1,1187
+78,Desk Plant Kit,home,13.6,6.0,0,635
+79,Desk Plant Kit,home,18.4,6.0,0,425
+80,Desk Plant Kit,home,15.2,6.0,0,397
+81,Desk Plant Kit,home,16.0,6.0,0,639
+82,Desk Plant Kit,home,14.4,6.0,0,517
+83,Desk Plant Kit,home,18.4,6.0,0,529
+84,Desk Plant Kit,home,15.2,6.0,0,456
+85,Desk Plant Kit,home,13.6,6.0,0,499
+86,Desk Plant Kit,home,13.6,6.0,0,558
+87,Desk Plant Kit,home,16.0,6.0,0,425
+88,Desk Plant Kit,home,17.6,6.0,0,336
+89,Desk Plant Kit,home,12.92,6.0,1,871
+90,Desk Plant Kit,home,16.0,6.0,0,457
+91,Desk Plant Kit,home,18.4,6.0,0,410
+92,Desk Plant Kit,home,16.0,6.0,0,408
+93,Desk Plant Kit,home,13.6,6.0,0,396
+94,Desk Plant Kit,home,13.6,6.0,0,517
+95,Desk Plant Kit,home,15.2,6.0,0,333
+96,Desk Plant Kit,home,13.6,6.0,0,384
+97,Desk Plant Kit,home,15.2,6.0,0,599
+98,Desk Plant Kit,home,18.4,6.0,0,387
+99,Desk Plant Kit,home,18.4,6.0,0,512
+100,Desk Plant Kit,home,18.4,6.0,0,411
+101,Desk Plant Kit,home,16.0,6.0,0,360
+102,Desk Plant Kit,home,16.8,6.0,0,513
+103,Desk Plant Kit,home,14.4,6.0,0,586
+0,Aroma Diffuser,home,28.8,13.5,0,636
+1,Aroma Diffuser,home,32.0,13.5,0,806
+2,Aroma Diffuser,home,33.6,13.5,0,606
+3,Aroma Diffuser,home,33.6,13.5,0,675
+4,Aroma Diffuser,home,35.2,13.5,0,748
+5,Aroma Diffuser,home,36.8,13.5,0,628
+6,Aroma Diffuser,home,27.2,13.5,0,982
+7,Aroma Diffuser,home,36.8,13.5,0,454
+8,Aroma Diffuser,home,36.8,13.5,0,623
+9,Aroma Diffuser,home,36.8,13.5,0,711
+10,Aroma Diffuser,home,30.4,13.5,0,798
+11,Aroma Diffuser,home,35.2,13.5,0,789
+12,Aroma Diffuser,home,32.0,13.5,0,734
+13,Aroma Diffuser,home,29.92,13.5,1,962
+14,Aroma Diffuser,home,30.4,13.5,0,743
+15,Aroma Diffuser,home,32.0,13.5,0,560
+16,Aroma Diffuser,home,28.8,13.5,0,1019
+17,Aroma Diffuser,home,32.0,13.5,0,968
+18,Aroma Diffuser,home,33.6,13.5,0,873
+19,Aroma Diffuser,home,35.2,13.5,0,575
+20,Aroma Diffuser,home,35.2,13.5,0,782
+21,Aroma Diffuser,home,33.6,13.5,0,647
+22,Aroma Diffuser,home,28.8,13.5,0,799
+23,Aroma Diffuser,home,36.8,13.5,0,657
+24,Aroma Diffuser,home,28.8,13.5,0,940
+25,Aroma Diffuser,home,24.48,13.5,1,1327
+26,Aroma Diffuser,home,35.2,13.5,0,603
+27,Aroma Diffuser,home,33.6,13.5,0,493
+28,Aroma Diffuser,home,27.2,13.5,0,755
+29,Aroma Diffuser,home,32.0,13.5,0,547
+30,Aroma Diffuser,home,35.2,13.5,0,426
+31,Aroma Diffuser,home,36.8,13.5,0,476
+32,Aroma Diffuser,home,36.8,13.5,0,454
+33,Aroma Diffuser,home,28.8,13.5,0,677
+34,Aroma Diffuser,home,32.0,13.5,0,587
+35,Aroma Diffuser,home,32.0,13.5,0,483
+36,Aroma Diffuser,home,30.4,13.5,0,540
+37,Aroma Diffuser,home,33.6,13.5,0,463
+38,Aroma Diffuser,home,36.8,13.5,0,386
+39,Aroma Diffuser,home,27.2,13.5,0,849
+40,Aroma Diffuser,home,32.0,13.5,0,510
+41,Aroma Diffuser,home,32.0,13.5,0,683
+42,Aroma Diffuser,home,36.8,13.5,0,466
+43,Aroma Diffuser,home,27.2,13.5,0,665
+44,Aroma Diffuser,home,32.0,13.5,0,430
+45,Aroma Diffuser,home,35.2,13.5,0,362
+46,Aroma Diffuser,home,31.28,13.5,1,608
+47,Aroma Diffuser,home,28.8,13.5,0,568
+48,Aroma Diffuser,home,32.0,13.5,0,729
+49,Aroma Diffuser,home,35.2,13.5,0,557
+50,Aroma Diffuser,home,32.0,13.5,0,528
+51,Aroma Diffuser,home,28.56,13.5,1,873
+52,Aroma Diffuser,home,27.2,13.5,1,1186
+53,Aroma Diffuser,home,36.8,13.5,0,559
+54,Aroma Diffuser,home,30.4,13.5,0,701
+55,Aroma Diffuser,home,28.8,13.5,0,885
+56,Aroma Diffuser,home,32.0,13.5,0,673
+57,Aroma Diffuser,home,30.4,13.5,0,772
+58,Aroma Diffuser,home,32.0,13.5,0,600
+59,Aroma Diffuser,home,27.2,13.5,0,1137
+60,Aroma Diffuser,home,35.2,13.5,0,580
+61,Aroma Diffuser,home,33.6,13.5,0,597
+62,Aroma Diffuser,home,32.0,13.5,0,612
+63,Aroma Diffuser,home,35.2,13.5,0,531
+64,Aroma Diffuser,home,27.2,13.5,0,962
+65,Aroma Diffuser,home,32.0,13.5,0,652
+66,Aroma Diffuser,home,30.4,13.5,0,1022
+67,Aroma Diffuser,home,31.28,13.5,1,1229
+68,Aroma Diffuser,home,25.84,13.5,1,1726
+69,Aroma Diffuser,home,28.8,13.5,0,1029
+70,Aroma Diffuser,home,27.2,13.5,0,1057
+71,Aroma Diffuser,home,23.12,13.5,1,1573
+72,Aroma Diffuser,home,32.0,13.5,0,848
+73,Aroma Diffuser,home,30.4,13.5,0,839
+74,Aroma Diffuser,home,33.6,13.5,0,736
+75,Aroma Diffuser,home,33.6,13.5,0,484
+76,Aroma Diffuser,home,27.2,13.5,0,774
+77,Aroma Diffuser,home,32.0,13.5,0,483
+78,Aroma Diffuser,home,35.2,13.5,0,621
+79,Aroma Diffuser,home,32.0,13.5,0,680
+80,Aroma Diffuser,home,36.8,13.5,0,459
+81,Aroma Diffuser,home,33.6,13.5,0,603
+82,Aroma Diffuser,home,32.0,13.5,0,495
+83,Aroma Diffuser,home,32.0,13.5,0,514
+84,Aroma Diffuser,home,36.8,13.5,0,484
+85,Aroma Diffuser,home,28.8,13.5,0,649
+86,Aroma Diffuser,home,30.4,13.5,0,549
+87,Aroma Diffuser,home,32.0,13.5,0,531
+88,Aroma Diffuser,home,32.0,13.5,0,638
+89,Aroma Diffuser,home,33.6,13.5,0,451
+90,Aroma Diffuser,home,33.6,13.5,0,539
+91,Aroma Diffuser,home,27.2,13.5,1,919
+92,Aroma Diffuser,home,35.2,13.5,0,392
+93,Aroma Diffuser,home,32.0,13.5,0,541
+94,Aroma Diffuser,home,36.8,13.5,0,454
+95,Aroma Diffuser,home,32.0,13.5,0,493
+96,Aroma Diffuser,home,27.2,13.5,0,651
+97,Aroma Diffuser,home,30.4,13.5,0,598
+98,Aroma Diffuser,home,28.8,13.5,0,746
+99,Aroma Diffuser,home,27.2,13.5,0,835
+100,Aroma Diffuser,home,32.0,13.5,0,649
+101,Aroma Diffuser,home,23.12,13.5,1,1375
+102,Aroma Diffuser,home,36.8,13.5,0,669
+103,Aroma Diffuser,home,36.8,13.5,0,749
+0,Weighted Blanket,home,79.0,38.0,0,207
+1,Weighted Blanket,home,71.1,38.0,0,269
+2,Weighted Blanket,home,75.05,38.0,0,322
+3,Weighted Blanket,home,71.1,38.0,0,278
+4,Weighted Blanket,home,79.0,38.0,0,297
+5,Weighted Blanket,home,67.15,38.0,0,264
+6,Weighted Blanket,home,79.0,38.0,0,311
+7,Weighted Blanket,home,79.0,38.0,0,271
+8,Weighted Blanket,home,75.05,38.0,0,307
+9,Weighted Blanket,home,86.9,38.0,0,337
+10,Weighted Blanket,home,73.87,38.0,1,411
+11,Weighted Blanket,home,60.44,38.0,1,414
+12,Weighted Blanket,home,79.0,38.0,0,475
+13,Weighted Blanket,home,79.0,38.0,0,238
+14,Weighted Blanket,home,90.85,38.0,0,259
+15,Weighted Blanket,home,79.0,38.0,0,216
+16,Weighted Blanket,home,82.95,38.0,0,203
+17,Weighted Blanket,home,57.08,38.0,1,379
+18,Weighted Blanket,home,71.1,38.0,0,271
+19,Weighted Blanket,home,86.9,38.0,0,268
+20,Weighted Blanket,home,79.0,38.0,0,329
+21,Weighted Blanket,home,86.9,38.0,0,260
+22,Weighted Blanket,home,71.1,38.0,0,273
+23,Weighted Blanket,home,71.1,38.0,0,250
+24,Weighted Blanket,home,79.0,38.0,0,228
+25,Weighted Blanket,home,67.15,38.0,0,237
+26,Weighted Blanket,home,67.15,38.0,0,245
+27,Weighted Blanket,home,75.05,38.0,0,228
+28,Weighted Blanket,home,90.85,38.0,0,188
+29,Weighted Blanket,home,71.1,38.0,0,253
+30,Weighted Blanket,home,90.85,38.0,0,163
+31,Weighted Blanket,home,79.0,38.0,0,203
+32,Weighted Blanket,home,79.0,38.0,0,151
+33,Weighted Blanket,home,90.85,38.0,0,256
+34,Weighted Blanket,home,71.1,38.0,0,196
+35,Weighted Blanket,home,57.08,38.0,1,351
+36,Weighted Blanket,home,71.1,38.0,0,204
+37,Weighted Blanket,home,79.0,38.0,0,236
+38,Weighted Blanket,home,86.9,38.0,0,150
+39,Weighted Blanket,home,79.0,38.0,0,180
+40,Weighted Blanket,home,86.9,38.0,0,221
+41,Weighted Blanket,home,67.15,38.0,0,152
+42,Weighted Blanket,home,67.15,38.0,0,223
+43,Weighted Blanket,home,67.15,38.0,0,312
+44,Weighted Blanket,home,73.87,38.0,1,302
+45,Weighted Blanket,home,86.9,38.0,0,202
+46,Weighted Blanket,home,79.0,38.0,0,242
+47,Weighted Blanket,home,75.05,38.0,0,191
+48,Weighted Blanket,home,79.0,38.0,0,212
+49,Weighted Blanket,home,71.1,38.0,0,178
+50,Weighted Blanket,home,71.1,38.0,0,261
+51,Weighted Blanket,home,75.05,38.0,0,341
+52,Weighted Blanket,home,82.95,38.0,0,244
+53,Weighted Blanket,home,67.15,38.0,1,410
+54,Weighted Blanket,home,71.1,38.0,0,250
+55,Weighted Blanket,home,90.85,38.0,0,227
+56,Weighted Blanket,home,79.0,38.0,0,263
+57,Weighted Blanket,home,82.95,38.0,0,263
+58,Weighted Blanket,home,79.0,38.0,0,221
+59,Weighted Blanket,home,82.95,38.0,0,261
+60,Weighted Blanket,home,86.9,38.0,0,255
+61,Weighted Blanket,home,60.44,38.0,1,500
+62,Weighted Blanket,home,79.0,38.0,0,268
+63,Weighted Blanket,home,79.0,38.0,0,374
+64,Weighted Blanket,home,71.1,38.0,0,354
+65,Weighted Blanket,home,79.0,38.0,0,288
+66,Weighted Blanket,home,67.15,38.0,0,298
+67,Weighted Blanket,home,79.0,38.0,0,421
+68,Weighted Blanket,home,75.05,38.0,0,368
+69,Weighted Blanket,home,67.15,38.0,0,453
+70,Weighted Blanket,home,67.15,38.0,0,303
+71,Weighted Blanket,home,90.85,38.0,0,291
+72,Weighted Blanket,home,71.1,38.0,0,440
+73,Weighted Blanket,home,71.1,38.0,0,277
+74,Weighted Blanket,home,79.0,38.0,0,241
+75,Weighted Blanket,home,75.05,38.0,0,322
+76,Weighted Blanket,home,79.0,38.0,0,233
+77,Weighted Blanket,home,86.9,38.0,0,187
+78,Weighted Blanket,home,90.85,38.0,0,190
+79,Weighted Blanket,home,67.15,38.0,0,276
+80,Weighted Blanket,home,71.1,38.0,0,224
+81,Weighted Blanket,home,71.1,38.0,0,247
+82,Weighted Blanket,home,79.0,38.0,0,237
+83,Weighted Blanket,home,75.05,38.0,0,249
+84,Weighted Blanket,home,82.95,38.0,0,181
+85,Weighted Blanket,home,75.05,38.0,0,272
+86,Weighted Blanket,home,71.1,38.0,0,213
+87,Weighted Blanket,home,71.1,38.0,0,215
+88,Weighted Blanket,home,90.85,38.0,0,209
+89,Weighted Blanket,home,75.05,38.0,0,251
+90,Weighted Blanket,home,75.05,38.0,0,210
+91,Weighted Blanket,home,79.0,38.0,0,169
+92,Weighted Blanket,home,71.1,38.0,0,201
+93,Weighted Blanket,home,77.22,38.0,1,357
+94,Weighted Blanket,home,79.0,38.0,0,211
+95,Weighted Blanket,home,86.9,38.0,0,190
+96,Weighted Blanket,home,79.0,38.0,0,292
+97,Weighted Blanket,home,60.44,38.0,1,441
+98,Weighted Blanket,home,67.15,38.0,0,283
+99,Weighted Blanket,home,82.95,38.0,0,183
+100,Weighted Blanket,home,60.44,38.0,1,330
+101,Weighted Blanket,home,79.0,38.0,0,212
+102,Weighted Blanket,home,67.15,38.0,0,248
+103,Weighted Blanket,home,67.15,38.0,0,310
