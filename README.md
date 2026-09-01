@@ -1,46 +1,25 @@
-# PriceWave — Dynamic Pricing Optimization Engine
+# PriceWave — Dynamic Pricing Engine with Elasticity Modeling & Constrained Optimization
 
-> Set prices that maximize profit, not just match competitors. PriceWave estimates own-price elasticity per product from sales history using log-log OLS with hierarchical shrinkage, then solves for profit-maximizing prices under business constraints and projects portfolio-level revenue impact.
+PriceWave is a production-grade pricing engine that estimates own-price demand elasticity from historical transactions, applies hierarchical category shrinkage to stabilize noisy estimates, and solves constrained profit-maximization problems behind a backtest harness.
 
-## What PriceWave Does
+## Mathematical Formulation
 
-- **Elasticity estimation** — log-log OLS controlling for promotions and seasonality per product
-- **Hierarchical shrinkage** — regularizes noisy item-level estimates toward category means
-- **Constrained optimization** — profit maximization under floor/ceiling and margin constraints
-- **Portfolio impact projection** — revenue, margin, and volume delta across the full assortment
-- **Scenario comparison** — compare current vs optimized vs competitor-matched pricing
+1. **Log-Log Demand Elasticity**:
+   $$\ln(Q_i) = lpha_i + eta_i \ln(P_i) + \gamma X_i + \epsilon_i$$
+   Where $eta_i$ is the price elasticity of demand for product $i$.
+2. **Hierarchical Shrinkage**: Blends SKU-level elasticity with category and department priors using Empirical Bayes to prevent overfitting on low-volume items.
+3. **Constrained Profit Optimization**:
+   $$\max_{\{P_i\}} \sum_{i} (P_i - C_i) \cdot Q_i(P_i) \quad 	ext{s.t.} \quad P_{\min, i} \le P_i \le P_{\max, i}, \quad \left|rac{P_i - P_{0, i}}{P_{0, i}}ight| \le \delta$$
 
-## Architecture
-
-```
-Sales History (product x date x price x quantity)
-    └─> ElasticityEstimator  (log-log OLS + hierarchical shrinkage)
-    └─> ConstraintEngine     (floor/ceiling, margin guard)
-    └─> ProfitOptimizer      (per-product optimal price solver)
-    └─> PortfolioProjector   (revenue / margin / volume delta)
-    └─> TaskRunner           (tasks.py demo / compare / report)
-```
-
-## Quickstart
+## Usage
 
 ```bash
-python tasks.py demo        # estimate elasticities + optimize prices on synthetic data
-python tasks.py report      # generate portfolio pricing report
+# Run elasticity estimation and pricing optimization simulation
+python tasks.py run-backtest
 ```
 
-## Test
+## Tests
 
 ```bash
-python tests/test_smoke.py
+pytest tests/ -v
 ```
-
----
-
-## 👤 Author & Contact
-
-- **Author**: Nathaniel Gordon
-- **Role**: Senior AI & Machine Learning Engineer
-- **GitHub**: [github.com/nathaniel-gordon](https://github.com/nathaniel-gordon)
-- **Portfolio / Upwork**: [upwork.com/freelancers/~015fe5a704f8943797](https://www.upwork.com/freelancers/~015fe5a704f8943797)
-- **Email**: nathanielgordon346@gmail.com
-- **Location**: Tallahassee, FL, USA
